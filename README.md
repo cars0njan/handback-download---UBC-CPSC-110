@@ -7,4 +7,4 @@ How to use:
 3. run main.py, file will appear in the "DOWNLOADS" folder
 
 developed as a personal project by a stduent in CPSC 110<br>
-**not** affiliated with UBC or the CPSC 110 course team, use at your own discretion
+**not affiliated with UBC or the CPSC 110 course team**, use at your own discretion
