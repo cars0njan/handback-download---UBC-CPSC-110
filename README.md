@@ -6,5 +6,5 @@ How to use:
 2. change the variables session in main.py into your `CWL`, `password`, and `student number`
 3. run main.py
 
-developed by a stduent in CPSC 110
-**not** affiliated with UBC or the CPSC course team
+developed as a personal project by a stduent in CPSC 110
+**not** affiliated with UBC or the CPSC 110 course team
