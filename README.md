@@ -1,4 +1,4 @@
-Downloads all files from your page on the UBC CPSC 110 handback server
+Downloads all files from your page on the UBC CPSC 110 handback server<br>
 (downloads are organized in folders)
 
 How to use:
@@ -6,6 +6,5 @@ How to use:
 2. change the variables session in main.py into your `CWL`, `password`, and `student number`
 3. run main.py, file will appear in the "DOWNLOADS" folder
 
-developed as a personal project by a stduent in CPSC 110
-**not** affiliated with UBC or the CPSC 110 course team
-use at your discretion
+developed as a personal project by a stduent in CPSC 110<br>
+**not** affiliated with UBC or the CPSC 110 course team, use at your own discretion
